@@ -1,3 +1,3 @@
-var TimeService = require('./lib/time');
+var EventService = require('./lib/event');
 
-module.exports = TimeService;
+module.exports = EventService;
